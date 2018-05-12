@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39368
     wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39782#Brownies-and-Bogles
 gutenberg_issued: '2012-05-24'
 gutenberg_type: Text
 identifiers:
